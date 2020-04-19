@@ -1,0 +1,18 @@
+﻿<record>
+<name>tuttionclass</name>
+<time from="17:00" to="18;00">
+<student name="ram" class="9" started_month="falgun" fee="800"/>
+</time>
+<time from="18:00" to="19:00">
+<student name="shyam" class="10" started_month="falgun" fee="1000"/>
+</time>
+<time from="19:00" to="20:00">
+<student name="hari" class="8" started_month="magh" fee="600"/>
+</time>
+<time from="17:00" to="18;00">
+<student name="govinda" class="9" started_month="falgun" fee="800"/>
+</time>
+<time from="18:00" to="19:00">
+<student name="manoj" class="10" started_month="chaitra" fee="1000"/>
+</time>
+</record>

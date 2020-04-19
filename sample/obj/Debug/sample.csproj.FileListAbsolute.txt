@@ -1,0 +1,9 @@
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.Form1.resources
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.Properties.Resources.resources
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.csproj.GenerateResource.cache
+C:\Users\9004060732\source\repos\sample\sample\bin\Debug\sample.exe.config
+C:\Users\9004060732\source\repos\sample\sample\bin\Debug\sample.exe
+C:\Users\9004060732\source\repos\sample\sample\bin\Debug\sample.pdb
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.exe
+C:\Users\9004060732\source\repos\sample\sample\obj\Debug\sample.pdb
